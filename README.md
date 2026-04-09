@@ -1,6 +1,6 @@
 ## Hey! I'm Jake, a current computer science student at UMKC working as a research assistant for MIDE. 
 
-test
+I will update this README with more soon!
 
 <!--
 **jakeSNelson1749/jakeSNelson1749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
